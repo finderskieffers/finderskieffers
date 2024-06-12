@@ -5,7 +5,7 @@ I am:
 - a tech dinosaur
 - currently learning Python coding basics
 - typing this on a MacOS terminal
-- getting overwhelmed by all this, but interested to learn!
+- getting overwhelmed by all this, but interested in learning it!
 
 <!--
 **finderskieffers/finderskieffers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
