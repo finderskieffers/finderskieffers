@@ -1,4 +1,9 @@
-## Hi there 👋
+## Halloww worlddd! 👋
+I am: 
+- Kieffer! (he/they)
+- a second-year BS Management Engineering student @ Ateneo de Manila University
+- a tech dinosaur
+- currently learning Python coding basics
 
 <!--
 **finderskieffers/finderskieffers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
