@@ -1,11 +1,13 @@
 ## Halloww worlddd! 👋
 I am: 
 - Kieffer! (he/they)
+- a shark enthusiast 🦈
 - a second-year BS Management Engineering student @ Ateneo de Manila University
-- a tech dinosaur
-- currently learning Python coding basics
-- typing this on a MacOS terminal
+- a tech dinosaur 🦖
+- currently learning Python coding basics 
+- typing this on a MacOS terminal 👨🏻‍💻
 - getting overwhelmed by all this, but interested in learning it!
+- sleepy 💤
 
 <!--
 **finderskieffers/finderskieffers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
